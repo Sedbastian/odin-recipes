@@ -1,3 +1,3 @@
 # odin-recipes
-Foundation Project: Recipes
+Foundation Project: Recipes.  
 Proyecto para poner en práctica los primeros conocimientos en HTML.
