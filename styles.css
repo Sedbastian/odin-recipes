@@ -1,3 +1,7 @@
+body {
+    font-family: "Montserrat";
+}
+
 .index {
     background-color: blanchedalmond; 
 }
@@ -7,7 +11,7 @@
 }
 
 .crocante-de-avena {
-    background-color: bisque;
+    background-color: rgb(255, 195, 121);
 }
 
 .crema-de-limon {
@@ -21,3 +25,9 @@
 .crema-base-de-chia {
     background-color: darkgrey;
 }
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
