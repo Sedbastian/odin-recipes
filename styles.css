@@ -19,7 +19,7 @@ body {
 }
 
 .chunio {
-    background-color: brown;
+    background-color: rgb(230, 54, 54);
 }
 
 .crema-base-de-chia {
@@ -31,3 +31,25 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 36px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 18px;
+    color: rgb(7, 63, 0);
+    font-weight: bold;
+}
+
+ol {
+    font-size: 18px;
+    color: rgb(75, 33, 5);
+    font-weight: bold;
+    font-style: italic;
+}
